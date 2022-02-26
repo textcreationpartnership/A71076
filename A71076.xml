@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties resolvtion concerning York-shire together with many other occurrences concerning His Royall Majestie and the high sheriffe of that countie : likewise fearfull and terrible newes from Yorkshire, Cheshire, and all the northern parts of England, concerning the great disturbances which were occasioned by many that rose up in a warlike manner in Yorkshire, May 19, 1642 : also how they were resisted by the high sheriffe of Yorkshire, having order and common from both Houses of Parliament to supresse all those that shall appeare in a warlike manner in that countie : with an information from York, concerning the Lord Seymer, the Lord Savill, and the Lord Rich, &amp;c. : and their answer to the Parliaments message.</title>
+            <author>Sanders, Edward, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71076</idno>
+            <idno type="STC">Wing S572</idno>
+            <idno type="STC">ESTC R8450</idno>
+            <idno type="EEBO-CITATION">12640339</idno>
+            <idno type="OCLC">ocm 12640339</idno>
+            <idno type="VID">65006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E148, no 19 or 1201:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties resolvtion concerning York-shire together with many other occurrences concerning His Royall Majestie and the high sheriffe of that countie : likewise fearfull and terrible newes from Yorkshire, Cheshire, and all the northern parts of England, concerning the great disturbances which were occasioned by many that rose up in a warlike manner in Yorkshire, May 19, 1642 : also how they were resisted by the high sheriffe of Yorkshire, having order and common from both Houses of Parliament to supresse all those that shall appeare in a warlike manner in that countie : with an information from York, concerning the Lord Seymer, the Lord Savill, and the Lord Rich, &amp;c. : and their answer to the Parliaments message.</title>
+                  <author>Sanders, Edward, 17th cent.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 26, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Kings Maiesties resolution" signed: Edward Sanders.</note>
+                  <note>Attributed by Wing to both Charles I (C2760) and Edward Sanders (S572).  Wing number C2760 cancelled in Wing (CD-ROM, 1996).</note>
+                  <note>Reproduction of originals in Bodleian Library and Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seymour, Francis, --  Baron Seymour of Trowbridge, 1590?-1664.</term>
+               <term>Sussex, Thomas Savile, --  Earl of, 1590?-1659?</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Yorkshire (England) --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65006:1" rendition="simple:additions"/>
+            <p>The Kings Maieſties RESOLVTION CONCERNING YORK-SHIRE.</p>
+            <p>Together with many other Occurrences con<g ref="char:EOLhyphen"/>cerning His Royall Majeſtie and the High Sheriffe of that Countie.</p>
+            <p>Likewiſe Fearfull and Terrible Newes from <hi>Yorkſhire, Cheſhire,</hi> and all the Northern parts of <hi>England,</hi> concerning the great diſturbances which were occaſioned by many that roſe up in a warlike manner in <hi>Yorkſhire, May</hi> 19. 1642.</p>
+            <p>Alſo how they were reſiſted by the High Sheriffe of <hi>Yorkſhire,</hi> having Order and Command from both Houſes of Parliament, to ſuppreſſe all thoſe that ſhall appeare in a Warlike manner in that Countie.</p>
+            <p>With an Information from <hi>York,</hi> concerning the Lord <hi>Seymer,</hi> the Lord <hi>Savill,</hi> and the Lord <hi>Rich, &amp;c.</hi> And their Anſwer to the Parlia<g ref="char:EOLhyphen"/>ments Meſſage.</p>
+            <p>LONDON, Printed for <hi>J. Horton.</hi> 1642. <hi>May</hi> 26</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:65006:2"/>
+            <pb facs="tcp:65006:2"/>
+            <head>The Kings Maieſties Reſolution concerning <hi>Yorke<g ref="char:EOLhyphen"/>ſhire.</hi>
+            </head>
+            <opener>
+               <salute>Loving friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter my hearty Commendati<g ref="char:EOLhyphen"/>ons remembred unto you, and to your wife, I thought it ne<g ref="char:EOLhyphen"/>ceſſary to ſend you theſe Oc<g ref="char:EOLhyphen"/>currences, writing them with a ſad and heavy heart, by rea<g ref="char:EOLhyphen"/>ſon that there is ſuch a great diſſention here in this our County, there is no talke now in theſe parts but Warres, as we are very fearfull that they will enſue very ſuddenly, for there is great preparations in this City, and wee dare not ſay to the contrary; His Royall Ma<g ref="char:EOLhyphen"/>jeſty is Reſolved to ſtay there as yet, and doth aſſure us that there ſhall be nothing
+<pb facs="tcp:65006:3"/>done contrary to the will of this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The great and manifold dangers which are like to enſue (Courteous and judicious Rea<g ref="char:EOLhyphen"/>der) are many for theſe two or three yeares, but I paſſe them, they have been a Hatching and are now almoſt come to a full ripeneſſe, as may appeare by this enſuing Relation.</p>
+            <p>Vpon this preſent moneth of May, there hath been many Feares and Jealouſies entring into the hearts of true hearted Proteſtants in the Northerne parts of <hi>England,</hi> and eſpeci<g ref="char:EOLhyphen"/>ally in the County of <hi>Yorkſhire,</hi> and they are now fully entred, more is the pitty, we may all ſay, for they had ſome hopes that His Maieſty and the Honourable High Court of Parliament, would by degrees have aſſented one with the other, and have all joyn'd with one conſtancy of mind, for the future and publique good, of this Kingdome, but now in the Concluſion they are farre further off then they were at the beginning, and their inten<g ref="char:EOLhyphen"/>tions are more apparantly knowne to the World; For it is abſolutely thought that a
+<pb facs="tcp:65006:3"/>Civill Warre will ſuddainly inſue, unleſſ God of his great mercy ſtirre the intentions of many.</p>
+            <p>There were many aſſembled together in a warlike manner in the Countie of <hi>Yorkſhire;</hi> but to what intent is not yet knowne, but at laſt each man departed to his owne home, yet this is for certain, that there is great pre<g ref="char:EOLhyphen"/>parations for warre made in this County and divers other adioyning Counties, but to what intent is not yet knowne, it ſtrikes terrour to the hearts of all true Proteſtants, and maketh a great proviſion in this County, ſome of the Malignant party ſaying, that the world will never be good till there be ſome bloud of the Puritan ſhed, but the Lord of his mercy ſend us a ſuddaine prevention, that the blood thir<g ref="char:EOLhyphen"/>ſty Papiſts may looſe, and miſſe of their in<g ref="char:EOLhyphen"/>tended purpoſes.</p>
+            <p>There is in this Countie a great number of Papiſts, and likewiſe in many other Coun<g ref="char:EOLhyphen"/>tries adioyning to this, and it is thought that they are well provided and furniſhed with great ſtore of Ammunition for Warre whoſe
+<pb facs="tcp:65006:4"/>deſigne is to bring a civill Warre upon the face of this whole Kingdome, that while wee are in diſſentions among our ſelves, a Forraigne Enemy may have the more advantage to worke their damnable and miſchievous deſignes.</p>
+            <p>There was upon the two and twentie day of this Moneth, many that went to his Maie<g ref="char:EOLhyphen"/>ſty, ſaying they would lay downe their Eves for the ſafety of his Maieſty, it is generally thought there will be ſuddenly Warres in this County of <hi>York,</hi> and all other places there<g ref="char:EOLhyphen"/>abouts, ſo J reſt.</p>
+            <closer>
+               <signed>Your Loving Freind <hi>Edward Sanders.</hi>
+               </signed>
+               <dateline>From <hi>Yorke,</hi> 
+                  <date>
+                     <hi>May,</hi> the 22. 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="report">
+            <pb facs="tcp:65006:4"/>
+            <head>Another paſſage of Note that happened in the County of <hi>Yorke</hi> betweene the high Sheriffe of the ſaid County, and certaine men aſſembled in Armes</head>
+            <p>THe High Sheriffe of <hi>Yorkeſhire,</hi> having Order and Command from both houſes of Parliament, to ſuppreſſe all thoſe that appeared in a warlike manner in thoſe parts, and having intelligence that there were ſome that had put themſelves into a poſture of Warre, He commanded ſome certaine per<g ref="char:EOLhyphen"/>ſons to make towards them with all ſpeed, to certifie the Command he had from both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, to ſuppreſſe all thoſe that appeared in a Warlike manner, they having heard what the Meſſengers had ſaid, immedi<g ref="char:EOLhyphen"/>ately departed from them, and every man withdrew himſelfe to his owne home.</p>
+         </div>
+         <div type="report">
+            <pb facs="tcp:65006:5"/>
+            <head>An Information Rec<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ved from <hi>Yorke</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> five of May 1642</head>
+            <p>VPon the nineteen day of this preſent moneth, 1642. the Honourable Hou<g ref="char:EOLhyphen"/>ſes received Information from <hi>Yorke,</hi> that thoſe Noble men ſent for to attend the Houſe, that went thither, without the H<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſes conſent, my Lord <hi>Savell,</hi> my Lord <hi>S<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mer.</hi> and my Lord <hi>Rich, &amp;c.</hi> had denyed to come; ſaying, that they were bound by the Oath of Allegiance to ſerve His Majeſtie.</p>
+         </div>
+         <div type="oath_of_allegiance">
+            <opener>
+               <dateline>
+                  <date>Die Martis, 20. Maii 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered by the Lords and Commons in Parliament aſſembled, That the Magazines of the ſeverall Counties <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>England</hi> and <hi>VVales,</hi> ſhall be forthwith put into the power of the Lord Lievtenants of the ſaid Counties, reſpectively, (being ſuch as the Parliament doth conſide in for the Service and ſafety of His Maje<g ref="char:EOLhyphen"/>ſty and the Kingdome.</p>
+            <div type="license">
+               <p>Ordered by the Lords in Parliament, That this Order ſhall be Printed and Publiſhed.</p>
+               <closer>
+                  <signed>Ioh. Browne, Cleric. Parl.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
